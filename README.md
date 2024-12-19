@@ -1,24 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Bhagya Sri</h1>
-<h3 align="center">Skilled and passionate Data Analyst, interested to work on Spatial analysis</h3>
+<h3 align="center">Skilled and passionate Spatial Data Analyst, interested to work on developing creative solutions for urban problems </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyasri&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyasri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagyasri" alt="bhagyasri" /></a> </p>
 
-- 🔭 I’m currently working on **Urban growth analysis**
+- 🔭 I’m currently working on **Urban Data analysis**
 
-- 🌱 I’m currently learning **Spatial Analysis with QGIS, Python for Geospatial Analysis**
+- 🌱 I’m currently learning **Spatial Analysis with GIS, Python for Geospatial Analysis**
 
-- 👯 I’m looking to collaborate on **City green infrastructure analysis**
+- 👯 I’m looking to collaborate on **City green infrastructure analysis**, **Environemntal Impact Assessment**, and **Spatial Planning**
 
 - 🤝 I’m looking for help with **Smart City Data Integration**
 
 - 👨‍💻 My linkedin profile [linkedin.com/in/bhagya-sri-chintakula-7115221b7](linkedin.com/in/bhagya-sri-chintakula-7115221b7)
 
-- 💬 Ask me about **Urban Data Analysis, GIS Mapping, Smart City Solutions, Python for Data Science, Sustainable Urban Development**
+- 💬 Ask me about **Urban Data Analysis, GIS Mapping, Smart City Solutions, Python for Urban Data Science, Sustainable Urban Development**
 
-- 📫 How to reach me **bhagyasri.chintakula@gmail.com**
+- 📫 How to reach me **gy97bsc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
